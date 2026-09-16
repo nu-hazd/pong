@@ -1,3 +1,4 @@
-# Po
+# Pong
+Bult in C++. OpenFrameworks
 
 
